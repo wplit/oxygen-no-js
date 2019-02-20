@@ -9,7 +9,7 @@ Made specifically for [Oxygen builder](http://oxygenbuilder.com/).
 
 If you view your Oxygen site without JS enabled (which is how a small % of site visitors will see it) you'll probably notice some of your site doesn't look right. The slider elements will be all piled on top of each other, any elements that you have fade-in type scroll animations on will be completely invisible and any other JS dependant elements you've added are likely to be messed up.
 
-This plugin provides fall back styling for Oxygen component and allows you to target the elements of your site using a `no-js` body class. This is useful for adding/removing elements that don't make sense without JS enabled (sliders, elements from third party plugins..) and providing alternative options that can be hidden from users that do have JS enabled.
+This plugin provides basic fall back styles for Oxygen components and allows you to target the elements of your site using a `no-js` body class. This is useful for adding/removing elements that don't make sense without JS enabled (sliders, elements from third party plugins..) and providing alternative options that can be hidden from users that do have JS enabled.
 
 [How to Disable JS in Chrome Dev Tools](https://stackoverflow.com/questions/13405383/how-to-disable-javascript-in-chrome-developer-tools)
 
