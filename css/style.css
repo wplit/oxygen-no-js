@@ -1,0 +1,29 @@
+/* All content with animation effect remains visible with no JS.
+--------------------------------------------- */
+
+.no-js [data-aos] {
+    opacity: 1;
+    transform: translate(0) scale(1);
+}
+
+/* Just show first slide in slider instead of all of them stacked
+--------------------------------------------- */
+
+.no-js .oxygen-unslider-container li {
+    list-style-type: none;
+}
+
+.no-js .oxygen-unslider-container li:not(:first-of-type) {
+    display: none;
+}
+
+/* Makes all menu items visible and removes menu toggle if visible
+--------------------------------------------- */
+
+.no-js .oxy-menu-toggle {
+    display: none!important;
+}
+
+.no-js .oxy-nav-menu-list {
+    display: flex!important;
+}
