@@ -44,6 +44,9 @@ The `js` body class is helpful if you want to target elements only when you are 
 
 ## Changelog ##
 
+### 1.0.1 - Feb 20, 2019 ###
+* Ensure body class doesn't effect site when in builder
+
 ### 1.0.0 - Feb 20, 2019 ###
 * Initial Release
 

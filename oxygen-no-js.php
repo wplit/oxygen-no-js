@@ -3,7 +3,7 @@
 Plugin Name:	Oxygen No-JS
 Plugin URI:		https://wplit.com/
 Description:	Add support to Oxygen for non-JS users.
-Version:		1.0.0
+Version:		1.0.1
 Author:			David Browne
 Author URI:		https://wplit.com/
 License:		GPL-2.0+
@@ -27,7 +27,6 @@ if ( ! defined( 'WPINC' ) ) {
 	die;
 }
 
-add_filter( 'body_class', 'lit_oxy_no_js_body_class' );
 /**
  * Add 'no-js' class to the body class.
  *
@@ -46,6 +45,8 @@ function lit_oxy_no_js_body_class($classes) {
 //* Hook on front end only, nothing changes in builder
 add_action( 'oxygen_enqueue_frontend_scripts', 'lit_oxy_load_front_end', 1 );
 function lit_oxy_load_front_end() {
+    
+    add_filter( 'body_class', 'lit_oxy_no_js_body_class' );
     
     wp_enqueue_style( 'oxygen-non-js', plugin_dir_url( __FILE__ ) . 'css/style.css' );
     
