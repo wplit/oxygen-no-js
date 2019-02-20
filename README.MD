@@ -24,6 +24,12 @@ This plugin allows you to target the elements of your site using a `no-js` body 
 Use the `no-js` body class to add your own styles inside Oxygen to give fall backs for anything you add using JS, making your site more accessible. 
 
 You can also use the `js` body class if you want to only target elements whn you are sure JS is enabled.
+
+### Simple example.. (if you wanted to remove slider completely for no-JS users) ###
+
+`.no-js .ct-slider {
+    display: none;
+}`
  
 
 ## Installation ##
