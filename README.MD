@@ -11,7 +11,7 @@ If you view your Oxygen site without JS enabled (which is how a small % of site 
 
 This plugin provides basic fall back styles for Oxygen components and allows you to target the elements of your site using a `no-js` body class. 
 
-This is useful for adding/removing elements that won't make sense without JS enabled (eg hidden slider elements, elements from third party JS plugins..) and allows you an easy way to providing alternatives that can be hidden from users that do have JS enabled.
+This is useful for adding/removing elements that won't make sense without JS enabled (eg hidden slider elements, elements from third party JS plugins..) and allows you an easy way to provide simple alternatives for non-js users, while hiding these from users that do have JS enabled.
 
 At the least, I recommend ensuring all of your content is available/visible to site visitors whether they have JS enabled or not.
 
