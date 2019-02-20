@@ -2,7 +2,7 @@
 /*
 Plugin Name:	Oxygen No-JS
 Plugin URI:		https://wplit.com/
-Description:	Adds a 'no-js' body class to your site, and an inline script that changes it back to `js` if JavaScript is enabled. Allows for styling of elements (like potential hiding) if JavaScript is disabled.
+Description:	Add support to Oxygen for non-JS users.
 Version:		1.0.0
 Author:			David Browne
 Author URI:		https://wplit.com/
