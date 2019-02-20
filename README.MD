@@ -18,7 +18,7 @@ At the least, I recommend ensuring all of your content is available/visible to s
 [How to view your site without JS in Chrome Dev Tools](https://stackoverflow.com/questions/13405383/how-to-disable-javascript-in-chrome-developer-tools)
 
 
-## Out of the box, the plugin does three things. ##
+## Out of the box, the plugin does four things. ##
 
 1. Ensures content with AOS animations enabled is still visible without JS needed (otherwise the opacity is stuck on 0.)
 2. Makes the responsive menu accessible without JS (menu-toggle hidden and menu items visible)
