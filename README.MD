@@ -7,7 +7,7 @@
 
 Made specifically for [Oxygen builder](http://oxygenbuilder.com/).
 
-If you view your Oxygen site without JS enabled (which is how a small % of site visitors will see it) you may have some of your site that doesn't look right. The slider elements can be all stacked on top of each other, elements that you have fade-in type scroll animations can be completely invisible with opacity stuck at 0 and any other JS dependant elements you've added can be unreadable and a mess.
+If you view your Oxygen site without JS enabled (which is how a small % of site visitors will see it) you may have some of your site that doesn't look right, or isn't visible at all. The slider elements can be all stacked on top of each other, elements that you have fade-in type scroll animations can be completely invisible with opacity stuck at 0 and any other JS dependant elements you've added can be unreadable and a mess.
 
 This plugin provides basic fall back styles for Oxygen components and allows you to target the elements of your site using a `no-js` body class. 
 
