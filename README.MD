@@ -19,6 +19,7 @@ This plugin allows you to target the elements of your site using a `no-js` body 
 1. Ensures content with AOS animations enabled is still visible without JS needed (otherwise the opacity is stuck on 0.)
 2. Makes the responsive menu accessible without JS (menu-toggle hidden and menu items visible)
 3. Provides fall back styles for Oxygen components that are JS dependent - eg slider.
+4. Adds `no-js` body class that is instantly replaced with `js` for JS enabled browsers.
 
 Use the `no-js` body class to add your own styles inside Oxygen to give fall backs for anything you add using JS, making your site more accessible. 
 
