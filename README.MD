@@ -3,7 +3,8 @@
 **Tags:** oxygen  
 **Requires at least:** Oxygen 2.0
 **License:** GPLv2 or later  
-**License URI:** http://www.gnu.org/licenses/gpl-2.0.html
+**License URI:** http://www.gnu.org/licenses/gpl-2.0.html   
+
 **Version:**: 1.0.1
 
 Made specifically for [Oxygen builder](http://oxygenbuilder.com/).
