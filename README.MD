@@ -19,6 +19,8 @@ At the least, I recommend ensuring all of your content is available/visible to s
 
 [How to view your site without JS in Chrome Dev Tools](https://stackoverflow.com/questions/13405383/how-to-disable-javascript-in-chrome-developer-tools)
 
+[Why we should support users with no JavaScript](http://www.punkchip.com/why-support-javascript-disabled/)
+
 
 ## Out of the box, the plugin does four things. ##
 
