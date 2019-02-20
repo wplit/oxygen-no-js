@@ -11,7 +11,7 @@ If you view your Oxygen site without JS enabled (which is how a small % of site 
 
 This plugin provides basic fall back styles for Oxygen components and allows you to target the elements of your site using a `no-js` body class. This is useful for adding/removing elements that don't make sense without JS enabled (sliders, elements from third party plugins..) and allows you an easy way to providing alternatives that can be hidden from users that do have JS enabled.
 
-At least, you need to make sure all your content is available to site visitors whether they gave JS enabled or not.
+At the least, you need to ensure all of your content is available to site visitors whether they gave JS enabled or not.
 
 [How to view your site without JS in Chrome Dev Tools](https://stackoverflow.com/questions/13405383/how-to-disable-javascript-in-chrome-developer-tools)
 
