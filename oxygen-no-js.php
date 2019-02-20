@@ -1,12 +1,12 @@
 <?php
 /*
 Plugin Name:	Oxygen No-JS
-Plugin URI:		https://wplit.com/
+Plugin URI:	https://wplit.com/
 Description:	Add support to Oxygen for non-JS users.
-Version:		1.0.0
-Author:			David Browne
-Author URI:		https://wplit.com/
-License:		GPL-2.0+
+Version:	1.0.0
+Author:		David Browne
+Author URI:	https://wplit.com/
+License:	GPL-2.0+
 License URI:	http://www.gnu.org/licenses/gpl-2.0.txt
 
 This plugin is free software: you can redistribute it and/or modify
