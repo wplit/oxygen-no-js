@@ -11,6 +11,8 @@ If you view your Oxygen site without JS enabled (which is how a small % of site 
 
 This plugin allows you to target the elements of your site using a `no-js` body class, allowing you to create much more accessible websites. Useful for adding/removing elements that don't make sense without JS enabled (sliders..) and providing alternative options that can be hidden from users that do have JS enabled.
 
+[How to Disable JS in Chrome Dev Tools](https://stackoverflow.com/questions/13405383/how-to-disable-javascript-in-chrome-developer-tools)
+
 
 ## Out of the box, the plugin does three things. ##
 
