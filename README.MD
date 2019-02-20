@@ -7,7 +7,7 @@
 
 Made specifically for [Oxygen builder](http://oxygenbuilder.com/).
 
-If you view your Oxygen site without JS enabled (which is how a % of site visitos will see it) you'll probably notice some of your site doesn't look right. The slider elements will be all piled on top of each other, any elements that you have fade-in type scroll animations on will be completely invisible and any other JS dependant elements you've added are likely to be messed up.
+If you view your Oxygen site without JS enabled (which is how a small % of site visitors will see it) you'll probably notice some of your site doesn't look right. The slider elements will be all piled on top of each other, any elements that you have fade-in type scroll animations on will be completely invisible and any other JS dependant elements you've added are likely to be messed up.
 
 This plugin allows you to target the elements of your site using a `no-js` body class, allowing you to create much more accessible websites. Useful for adding/removing elements that don't make sense without JS enabled (sliders..) and providing alternative options that can be hidden from users that do have JS enabled.
 
