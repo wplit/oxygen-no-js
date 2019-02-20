@@ -5,7 +5,7 @@
 **License:** GPLv2 or later  
 **License URI:** http://www.gnu.org/licenses/gpl-2.0.html
 
-Plugin for [Oxygen](http://oxygenbuilder.com/). Adds a `no-js` body class to your Oxygen site, and an inline script that changes it back to `js` if JavaScript is enabled in the browser. Useful for making more accessible websites with Oxygen by allowing non-JS users to still access the content of your site and for adding/removing elements that don't make sense without JS enabled (sliders..)
+Made specifically for [Oxygen builder](http://oxygenbuilder.com/). Adds a `no-js` body class to your Oxygen site, and an inline script that changes it back to `js` if JavaScript is enabled in the browser. Useful for making more accessible websites with Oxygen by allowing non-JS users to still access the content of your site and for adding/removing elements that don't make sense without JS enabled (sliders..)
 
 ## Out of the box, the plugin does three things. ##
 
