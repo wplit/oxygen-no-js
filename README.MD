@@ -27,9 +27,9 @@ At the least, I recommend ensuring all of your content is available/visible to s
 
 Use the `no-js` body class to add your own styles inside Oxygen to give fall backs for anything you add using JS, making your site more accessible. 
 
-The `js` body class is heklpful if you want to target elements only when you are sure JS is enabled.
+The `js` body class is helpful if you want to target elements only when you are sure JS is enabled.
 
-### Simple example.. (if you wanted to remove slider completely for no-JS users) ###
+### Simple example.. (if you wanted to remove a slider completely for no-JS users) ###
 
 `.no-js .ct-slider {
     display: none;
